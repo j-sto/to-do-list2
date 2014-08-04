@@ -1,5 +1,5 @@
 require 'rspec'
-require 'to_do'
+require 'task.rb'
 
 describe Task do
   it("is initialized with a description") do
